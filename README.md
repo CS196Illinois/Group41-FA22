@@ -6,3 +6,4 @@ Group Name: TEAM_NAME
 Team Members: zixuanq4, ak89, kavinm2, getongz2, nrgavin2)
 
 Project Manager: nda6
+pip install spotipy
