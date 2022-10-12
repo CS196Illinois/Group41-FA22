@@ -1,5 +1,5 @@
 # Group 41
-Group Name: TEAM_NAME
+Group Name: Music Mania
 
 [MVP Link](https://docs.google.com/document/d/1FoWp9Cs5-XDj2V2HQZzsviFOCqTCKfHuX-NTUz9BUV4/edit?usp=sharing)
 
